@@ -1,0 +1,2 @@
+C:\Users\pikas\Documents\gds_editor\GdsAccessor\x64\Debug\GdsAccessor.vcxproj.AssemblyReference.cache
+C:\Users\pikas\Documents\gds_editor\GdsAccessor\x64\Debug\GdsAccessor.vcxproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\bin\Debug\GDSEDITOR.exe.config
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\bin\Debug\GDSEDITOR.exe
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\bin\Debug\GDSEDITOR.pdb
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\obj\Debug\GDSEDITOR.csproj.AssemblyReference.cache
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\obj\Debug\GDSEDITOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\obj\Debug\GDSEDITOR.FormMain.resources
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\obj\Debug\GDSEDITOR.Properties.Resources.resources
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\obj\Debug\GDSEDITOR.csproj.GenerateResource.cache
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\obj\Debug\GDSEDITOR.csproj.CoreCompileInputs.cache
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\obj\Debug\GDSEDITOR.exe
+C:\Users\pikas\Documents\gds_editor\GDSEDITOR\obj\Debug\GDSEDITOR.pdb
